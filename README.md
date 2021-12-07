@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bukscom
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Web projects and wordpress website designing
 - 📫 How to reach me https://www.linkedin.com/in/rohan-bokadiya-rohan855/
 
